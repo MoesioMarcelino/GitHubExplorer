@@ -1,4 +1,4 @@
-# GitHub Explorer
+# :anchor: GitHub Explorer
 
 GitHub Explorer is a project developed on Bootcamp Rocketseat for help me to learn more React JS universe and refine my knowlegde.
 
